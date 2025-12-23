@@ -24,20 +24,3 @@ ciudad.usar();
 var PALABRAS = ["public", "private", "protected", "abstract", "static", "readonly"];
 
 
-
-//////////////////////////////////
-/*
-    GIT
-COMO COMPONE GIT COMO SE TRABAJA EN GIT
-TERMINOS MAS USADOS
-
-
-GITHUB <- ALOJA REPOSITORIOS GIT
-GITLAB <- 
-BITBUCKET <- 
-
-
-
-
-
-*/
