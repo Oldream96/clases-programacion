@@ -24,3 +24,4 @@ ciudad.usar();
 var PALABRAS = ["public", "private", "protected", "abstract", "static", "readonly"];
 
 
+//nid
