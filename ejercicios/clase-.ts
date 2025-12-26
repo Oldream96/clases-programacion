@@ -28,4 +28,4 @@ let variableNumero = 42;
 console.log( variableNumero < 40 ? "Es menor que 40" : "No es menor que 40" );
 
 
-console.log('francisca);
+console.log('francisca');
