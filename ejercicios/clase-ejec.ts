@@ -19,4 +19,5 @@ let miCarro = new Carro(4, 'Rojo', 'Toyota');
 
 miCarro.encender();
 
+console.log('diego');
 
