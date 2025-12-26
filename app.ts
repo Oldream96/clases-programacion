@@ -7,3 +7,4 @@ var triangulo2 = new Triangulo(5,4);
 var triangulo3 = new Triangulo(5,4);
 
 console.log("el area del triangulo 1 es: ", triangulo.calcularArea());
+console.log("el area del triangulo 2 es: ", triangulo2.calcularArea());
