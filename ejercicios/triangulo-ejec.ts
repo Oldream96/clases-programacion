@@ -59,5 +59,9 @@ export class Cuadrado {
   
   constructor(lado: number) { 
     this.lado = lado 
-  } 
+  }
+  
+  calcularArea() { 
+    return (this.lado * this.lado) 
+  }
 }

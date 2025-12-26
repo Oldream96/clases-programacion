@@ -17,3 +17,4 @@ while ( flores[i] !== undefined ) {
     console.log(`Flor en posicion ${i} es: ${flores[i]}`);
     i++;
 }
+console.log('camila');
