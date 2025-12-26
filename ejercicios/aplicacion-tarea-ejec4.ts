@@ -21,3 +21,5 @@ const v2 = new Vehiculo("Tesla", "Model 3", m2);
 console.log(v1.infoCompleta());
 console.log(v2.infoCompleta());
 console.log(motorMasPotente(v1, v2));
+
+console.log('noemi')
