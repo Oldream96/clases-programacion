@@ -3,4 +3,4 @@ class Diego{
 }
 
 
-console.log( ' este es el archivo de Diego', new Diego() );
+console.log( ' este cambio lo hizo Francisca', new Diego() );
